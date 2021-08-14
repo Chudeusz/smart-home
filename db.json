@@ -1,0 +1,8 @@
+[
+  {
+    "roomName": "Pokój Kamil",
+    "description": "Czujniki temperatury",
+    "devices": "2 czujnik",
+    "isActive": true
+  }
+]
